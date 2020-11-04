@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6369ff8f991dbd1883a427986c161ba",
+    "revision": "b50f4ce53d8e5393b17ac2026bbe2128",
     "url": "/animals_facts/index.html"
   },
   {
-    "revision": "0673695708229315f2e1",
+    "revision": "72c300d70c95f5c39fee",
     "url": "/animals_facts/static/css/main.7bbdf6de.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/animals_facts/static/js/2.1b162903.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0673695708229315f2e1",
-    "url": "/animals_facts/static/js/main.72980e2f.chunk.js"
+    "revision": "72c300d70c95f5c39fee",
+    "url": "/animals_facts/static/js/main.01d671a5.chunk.js"
   },
   {
     "revision": "271986fcf0d8c2caa742",
