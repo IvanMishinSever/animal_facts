@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/animals_facts/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/animals_facts/static/js/main.ff964fa8.chunk.js",
-    "main.js.map": "/animals_facts/static/js/main.ff964fa8.chunk.js.map",
+    "main.css": "/animals_facts/static/css/main.7bbdf6de.chunk.css",
+    "main.js": "/animals_facts/static/js/main.72980e2f.chunk.js",
+    "main.js.map": "/animals_facts/static/js/main.72980e2f.chunk.js.map",
     "runtime-main.js": "/animals_facts/static/js/runtime-main.4f1bcbef.js",
     "runtime-main.js.map": "/animals_facts/static/js/runtime-main.4f1bcbef.js.map",
-    "static/js/2.19326b61.chunk.js": "/animals_facts/static/js/2.19326b61.chunk.js",
-    "static/js/2.19326b61.chunk.js.map": "/animals_facts/static/js/2.19326b61.chunk.js.map",
+    "static/js/2.1b162903.chunk.js": "/animals_facts/static/js/2.1b162903.chunk.js",
+    "static/js/2.1b162903.chunk.js.map": "/animals_facts/static/js/2.1b162903.chunk.js.map",
     "index.html": "/animals_facts/index.html",
-    "precache-manifest.4f9b800590a2e7a8fa5d0d70220b26af.js": "/animals_facts/precache-manifest.4f9b800590a2e7a8fa5d0d70220b26af.js",
+    "precache-manifest.5582cbab6924b454e202815a0613e0c4.js": "/animals_facts/precache-manifest.5582cbab6924b454e202815a0613e0c4.js",
     "service-worker.js": "/animals_facts/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/animals_facts/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.19326b61.chunk.js.LICENSE.txt": "/animals_facts/static/js/2.19326b61.chunk.js.LICENSE.txt"
+    "static/css/main.7bbdf6de.chunk.css.map": "/animals_facts/static/css/main.7bbdf6de.chunk.css.map",
+    "static/js/2.1b162903.chunk.js.LICENSE.txt": "/animals_facts/static/js/2.1b162903.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f1bcbef.js",
-    "static/js/2.19326b61.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ff964fa8.chunk.js"
+    "static/js/2.1b162903.chunk.js",
+    "static/css/main.7bbdf6de.chunk.css",
+    "static/js/main.72980e2f.chunk.js"
   ]
 }
